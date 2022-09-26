@@ -48,6 +48,12 @@ mkdir ~/ICS4U/Unit3/Unit3-02
 mkdir ~/ICS4U/Unit3/Unit3-03
 mkdir ~/ICS4U/Unit3/Unit3-04
 mkdir ~/ICS4U/Unit3/Unit3-05
+mkdir ~/.config
+mkdir ~/.config/nvim
+mkdir ~/.config/nvim/lua
+mkdir ~/.config/nvim/plugin
+mkdir ~/.config/nvim/lua/user
+
 
 # Setup Github SSH keys
 echo "Press Return 3 Times"
